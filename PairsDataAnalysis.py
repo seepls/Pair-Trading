@@ -95,5 +95,5 @@ print(at.ADF(tintsp, trend='ct'))
 print('')
 print('=== AUS-CAN spread Phillips-Perron Co-Integration Test === ')
 print(at.PhillipsPerron(tintsp, trend='ct',test_type='rho'))
-print('')
+print('') 
 
